@@ -255,7 +255,7 @@ Arduino's own site has a good tutorial on adding 3rd-party libraries: <https://w
 * ESPAsyncUDP <https://github.com/me-no-dev/ESPAsyncUDP>
 * ESPAsyncWebserver - There have been a number of issues with this (otherwise) great library. Until those issues are fully resolved you will need to a) uninstall any previous copy you have and b) install the patched "fork": <https://github.com/philbowles/ESPAsyncWebServer>
 
-* PubSubClient v2.6 <https://github.com/knolleary/pubsubclient.> Be careful: there are two or three MQTT client libraries out there for Arduino - do not be tempted to use any other than the above: they simply won't work.
+* PubSubClient v2.6 <https://github.com/knolleary/pubsubclient>. Be careful: there are two or three MQTT client libraries out there for Arduino - do not be tempted to use any other than the above: they simply won't work.
 
 ## :hammer_and_wrench: Install required tools
 
